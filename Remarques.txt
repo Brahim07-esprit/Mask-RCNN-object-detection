@@ -1,0 +1,5 @@
+L'idee aaana tsawar bich naaamloulhom data augmentation,el mochkel be5lef el tsawar aana fichier fih les coordonnes taa el box
+eli fi wist el taswira eli nheb naarfha chniya
+souel , ki naamal data augment logiquement famma ligne automatiquement bich tetzedli fil fichier feha les coordonnées taa el box amma kifech bich naarfouh les coordonnées el jdod
+
+
